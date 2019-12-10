@@ -1,0 +1,34 @@
+_repo: Life-of-J-E-B-Stuart_60857
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williamson, Mary L. (Mary Lynn)
+    aliases:
+    - Williamson, Minnie Lynn
+    - Harrison, Minnie Lynn
+    - Williamson, M. L. (Mary Lynn)
+    birthdate: 1850
+    deathdate: 1923
+    gutenberg_agent_id: '50950'
+    url: http://www.gutenberg.org/2009/agents/50950
+  editor:
+    agent_name: Wiggins, Evelina Oakley
+    alias: Wiggins, E. O.
+    birthdate: 1878
+    gutenberg_agent_id: '51156'
+    url: http://www.gutenberg.org/2009/agents/51156
+description: ''
+gutenberg_issued: '2019-12-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E456'
+- !lcsh 'Stuart, Jeb, 1833-1864'
+- GITenberg
+title: Life of J. E. B. Stuart
+url: http://www.gutenberg.org/ebooks/60857
